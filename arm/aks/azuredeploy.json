@@ -4,7 +4,7 @@
     "parameters": {
         "aksClusterName": {
             "type": "string",
-            "defaultValue": "AKSCluster-Demo",
+            "defaultValue": "AKSCluster-KRL",
             "metadata": {
                 "description": "The name of the Managed Cluster resource."
             }
